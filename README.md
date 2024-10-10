@@ -18,3 +18,9 @@ Watch the complete video demonstration of the assignment here: [YouTube Video Li
 2. Clone this repository:
    ```bash
    git clone https://github.com/Omveer99/Assignment001.git
+
+   ## Contributors
+- **Omveer Panwar** - [@Omveer99](https://github.com/Omveer99)
+
+
+Happy Learning! 🍪🎉
