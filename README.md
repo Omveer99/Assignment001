@@ -11,7 +11,7 @@ This repository contains scripts and resources for automating the Android emulat
 - `script_output.png`: A screenshot of the output from the test script.
 
 ## Video Demonstration
-Watch the complete video demonstration of the assignment here: [YouTube Video Link](YOUR_YOUTUBE_LINK_HERE)
+Watch the complete video demonstration of the assignment here: [https://youtu.be/99OUwkLjhmM?si=IRN2BUJEuiXyFPVI](YOUR_YOUTUBE_LINK_HERE)
 
 ## Installation
 1. Ensure you have the Android SDK installed on your machine.
