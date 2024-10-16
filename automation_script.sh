@@ -26,4 +26,4 @@ chmod 755 test.sh
 sh test.sh
 EOF
 
-adb exec-ut screencap -p > script_output.png
+adb exec-out screencap -p > script_output.png
