@@ -1,4 +1,4 @@
-# ** Question 1 - Create an OpenSSL Certificate on your local machine and push it to the device:**
+ Question 1 - Create an OpenSSL Certificate on your local machine and push it to the device:
 
  # Generate certificate and key
 openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -sha256 -days 365 -nodes        
@@ -37,13 +37,13 @@ exit
 # Pull the file from the device to MacBook 
 adb pull /sdcard/imp.txt /Users/apple/downloads
 
-# Navigate to the directory and list the file
+# Navigate to the directory
 cd /Users/apple/downloads
 
 #list files
 ls
 
-# Display the content of the pulled file
+# Display the content 
 cat imp.txt
 
 
